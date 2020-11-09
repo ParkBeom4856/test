@@ -72,8 +72,9 @@ ___
 __＼*＼*Text＼*＼*__  
 _＼_Tom＼__  
 
-GitHub supports emoji! 
-:+1: :sparkles: :camel: :tada: 
-:rocket: :metal: :octocat:
+GitHub supports emoji!  
+:+1: :sparkles: :camel: :tada:   
+:rocket: :metal: :octocat:  
 
 
+<a href="#"><img src="https://img.shields.io/badge/license-mit-yellow" width="400px" alt="sample image"></a> 
